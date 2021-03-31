@@ -16,7 +16,7 @@ function getNewImg4(){
     var mag4 = document.getElementById('change4').src=this.src = 'images/image5.jpg';
 };
 
-//partie 6 je mis en comm la partie en dessous- pour avoir la partie 5 F@B
+//partie 6 je mets en comm la partie en dessous- pour avoir la partie 5 F@B
 function displayOut(){
     var mag = document.getElementById('change').src=this.src = 'images/image1_2.jpg';
 }
